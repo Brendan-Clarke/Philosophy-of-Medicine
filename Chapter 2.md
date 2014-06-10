@@ -30,7 +30,7 @@ Kuhn begins with a puzzle. Knowing who discovered something is important, and mu
 
 Kuhn’s response to this puzzle is as follows: this apparent failure of finding out arises because of a category mistake about discovery. Far from being point events, occurring in a particular place at a particular time, **most** discoveries occur gradually, and involve more than one researcher: “…there is no single moment or day which the historian, however complete his data, can identify as the point at which the discovery was made. Often, when several individuals are involved, it is even impossible unequivocally to identify any one of them as the discoverer.” (Kuhn 1962: 763).
 
-Now this vagueness regarding time, person, and place, initially seems hard to reconcile with our knowledge of the Archimedes case. The key to understanding Kuhn’s point here is the phrase ‘**most discoveries**’, because it indicates a classification of kinds of discovery. These are **troublesome **discoveries, and **expected** discoveries. Kuhn elucidates:
+Now this vagueness regarding time, person, and place, initially seems hard to reconcile with our knowledge of the Archimedes case. The key to understanding Kuhn’s point here is the phrase ‘**most discoveries**’, because it indicates a classification of kinds of discovery. These are **troublesome** discoveries, and **expected** discoveries. Kuhn elucidates:
 
 >The troublesome class consists of those discoveries…which could not have been predicted from accepted theory in advance and which therefore caught the assembled profession by surprise.
 (Kuhn 1962: 761)
